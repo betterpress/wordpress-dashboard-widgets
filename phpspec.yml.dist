@@ -1,0 +1,4 @@
+suites:
+    default:
+        namespace: Betterpress\Wordpress\DashboardWidgets
+        psr4_prefix: Betterpress\Wordpress\DashboardWidgets
